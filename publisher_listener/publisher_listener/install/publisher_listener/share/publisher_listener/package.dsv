@@ -1,0 +1,3 @@
+source;share/publisher_listener/hook/pythonpath.ps1
+source;share/publisher_listener/hook/pythonpath.dsv
+source;share/publisher_listener/hook/pythonpath.sh

@@ -1,0 +1,41 @@
+running egg_info
+creating build/publisher_listener/publisher_listener.egg-info
+writing build/publisher_listener/publisher_listener.egg-info/PKG-INFO
+writing dependency_links to build/publisher_listener/publisher_listener.egg-info/dependency_links.txt
+writing entry points to build/publisher_listener/publisher_listener.egg-info/entry_points.txt
+writing requirements to build/publisher_listener/publisher_listener.egg-info/requires.txt
+writing top-level names to build/publisher_listener/publisher_listener.egg-info/top_level.txt
+writing manifest file 'build/publisher_listener/publisher_listener.egg-info/SOURCES.txt'
+reading manifest file 'build/publisher_listener/publisher_listener.egg-info/SOURCES.txt'
+writing manifest file 'build/publisher_listener/publisher_listener.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/tanay/ros2_workspace/src/publisher_listener/build/publisher_listener/build
+creating /home/tanay/ros2_workspace/src/publisher_listener/build/publisher_listener/build/lib
+creating /home/tanay/ros2_workspace/src/publisher_listener/build/publisher_listener/build/lib/publisher_listener
+copying publisher_listener/publisher_node.py -> /home/tanay/ros2_workspace/src/publisher_listener/build/publisher_listener/build/lib/publisher_listener
+copying publisher_listener/listener_node.py -> /home/tanay/ros2_workspace/src/publisher_listener/build/publisher_listener/build/lib/publisher_listener
+copying publisher_listener/__init__.py -> /home/tanay/ros2_workspace/src/publisher_listener/build/publisher_listener/build/lib/publisher_listener
+running install
+running install_lib
+creating /home/tanay/ros2_workspace/src/publisher_listener/install/publisher_listener/lib/python3.10/site-packages/publisher_listener
+copying /home/tanay/ros2_workspace/src/publisher_listener/build/publisher_listener/build/lib/publisher_listener/publisher_node.py -> /home/tanay/ros2_workspace/src/publisher_listener/install/publisher_listener/lib/python3.10/site-packages/publisher_listener
+copying /home/tanay/ros2_workspace/src/publisher_listener/build/publisher_listener/build/lib/publisher_listener/listener_node.py -> /home/tanay/ros2_workspace/src/publisher_listener/install/publisher_listener/lib/python3.10/site-packages/publisher_listener
+copying /home/tanay/ros2_workspace/src/publisher_listener/build/publisher_listener/build/lib/publisher_listener/__init__.py -> /home/tanay/ros2_workspace/src/publisher_listener/install/publisher_listener/lib/python3.10/site-packages/publisher_listener
+byte-compiling /home/tanay/ros2_workspace/src/publisher_listener/install/publisher_listener/lib/python3.10/site-packages/publisher_listener/publisher_node.py to publisher_node.cpython-310.pyc
+byte-compiling /home/tanay/ros2_workspace/src/publisher_listener/install/publisher_listener/lib/python3.10/site-packages/publisher_listener/listener_node.py to listener_node.cpython-310.pyc
+byte-compiling /home/tanay/ros2_workspace/src/publisher_listener/install/publisher_listener/lib/python3.10/site-packages/publisher_listener/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/tanay/ros2_workspace/src/publisher_listener/install/publisher_listener/share
+creating /home/tanay/ros2_workspace/src/publisher_listener/install/publisher_listener/share/ament_index
+creating /home/tanay/ros2_workspace/src/publisher_listener/install/publisher_listener/share/ament_index/resource_index
+creating /home/tanay/ros2_workspace/src/publisher_listener/install/publisher_listener/share/ament_index/resource_index/packages
+copying resource/publisher_listener -> /home/tanay/ros2_workspace/src/publisher_listener/install/publisher_listener/share/ament_index/resource_index/packages
+creating /home/tanay/ros2_workspace/src/publisher_listener/install/publisher_listener/share/publisher_listener
+copying package.xml -> /home/tanay/ros2_workspace/src/publisher_listener/install/publisher_listener/share/publisher_listener
+running install_egg_info
+Copying build/publisher_listener/publisher_listener.egg-info to /home/tanay/ros2_workspace/src/publisher_listener/install/publisher_listener/lib/python3.10/site-packages/publisher_listener-0.0.0-py3.10.egg-info
+running install_scripts
+Installing listener_node script to /home/tanay/ros2_workspace/src/publisher_listener/install/publisher_listener/lib/publisher_listener
+Installing publisher_node script to /home/tanay/ros2_workspace/src/publisher_listener/install/publisher_listener/lib/publisher_listener
+writing list of installed files to '/home/tanay/ros2_workspace/src/publisher_listener/build/publisher_listener/install.log'

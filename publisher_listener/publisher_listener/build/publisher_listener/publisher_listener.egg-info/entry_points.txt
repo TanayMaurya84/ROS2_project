@@ -1,0 +1,4 @@
+[console_scripts]
+listener_node = publisher_listener.listener_node:main
+publisher_node = publisher_listener.publisher_node:main
+
