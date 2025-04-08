@@ -1,0 +1,7 @@
+#object locations in [x,y,theta] format
+
+location1: [-1.0, -0.5, -2.356]
+location2: [-1.0, 2.0, 0.785]
+location3: [0.0, 0.0, 1.571]
+
+
